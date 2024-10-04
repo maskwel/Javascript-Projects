@@ -1,0 +1,27 @@
+.submitForm {
+    width: auto;
+    background-color: rgb(201, 191, 191);
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+
+input[type=text]{
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 6px;
+}
+
+input[type=submit]{
+    width: 50%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(35, 170, 35);
+    border: none;
+    font-size: medium;
+    color: beige;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
